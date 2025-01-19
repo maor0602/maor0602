@@ -7,7 +7,6 @@
 - 🌐 [My Website](https://maor0602.github.io/MyPortfolio/)
 
 ## My Skills: 
-<img src="https://github.com/yourusername/yourrepository/blob/main/icons8-microsoft-sql-server-48.png" alt="SQL Server Logo" width="60" />
 [![My Skills](https://skillicons.dev/icons?i=py,html,github,git,vscode,linkedin,)](https://skillicons.dev)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![SPSS](https://img.shields.io/badge/-SPSS-0033A0?style=flat-square&logo=IBM&logoColor=white)
