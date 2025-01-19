@@ -1,6 +1,6 @@
-# Hi there, I'm Maor Barel 👋
-
-**Junior Data Analyst**
+                                                                                            # Hi there, I'm Maor Barel 👋
+                                                                                            
+                                                                                            **Junior Data Analyst**
 
 - 🌱 Data Research Analyst & Nutritionist
 - 📫 How to reach me: [Maor7878@gmail.com](mailto:Maor7878@gmail.com)
