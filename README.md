@@ -12,6 +12,7 @@
 ![SPSS](https://img.shields.io/badge/-SPSS-0033A0?style=flat-square&logo=IBM&logoColor=white)
 ![Hive](https://img.shields.io/badge/-Hive-FDEE21?style=flat-square&logo=Apache-Hive&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<img src="https://surveymonkey-assets.s3.amazonaws.com/papiasset/apps/logos/2e989404-aed0-41ea-9198-ddc1c76d7a4a" alt="SQL Server Logo" width="120" />
 
 
 
