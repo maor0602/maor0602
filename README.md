@@ -7,7 +7,7 @@
 - 🌐 [My Website](https://maor0602.github.io/MyPortfolio/)
 
 ## My Skills: 
-![My Skills](https://skillicons.dev/icons?i=py,html,github,git,vscode,linkedin,)]
+![My Skills](https://skillicons.dev/icons?i=py,html,github,git,vscode,linkedin)]
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![SPSS](https://img.shields.io/badge/-SPSS-0033A0?style=flat-square&logo=IBM&logoColor=white)
 ![Hive](https://img.shields.io/badge/-Hive-FDEE21?style=flat-square&logo=Apache-Hive&logoColor=black)
