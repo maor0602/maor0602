@@ -7,15 +7,9 @@
 - 🌐 [My Website](https://maor0602.github.io/MyPortfolio/)
 
 ## My Skills: 
-<img src="https://path-to-your-icon/sql-server-icon.svg" alt="SQL Server Logo" width="120" />
 [![My Skills](https://skillicons.dev/icons?i=py,html,github,git,vscode,linkedin,)](https://skillicons.dev)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SPSS](https://img.shields.io/badge/-SPSS-0033A0?style=flat-square&logo=IBM&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![Hive](https://img.shields.io/badge/-Hive-FDEE21?style=flat-square&logo=Apache-Hive&logoColor=black)
 
 
