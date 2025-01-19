@@ -6,7 +6,8 @@
 - 📫 How to reach me: [Maor7878@gmail.com](mailto:Maor7878@gmail.com)
 - 🌐 [My Website](https://maor0602.github.io/MyPortfolio/)
 
-## My Skills:
+## My Skills: 
+https://gist.github.com/Eduardokopp/9e7872ba3ca293ee1e71362dc5edbb4f#file-sql-server-icon-svg
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,wasm)](https://skillicons.dev)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
