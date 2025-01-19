@@ -1,5 +1,6 @@
 <!--
 **maor0602/maor0602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 # Hi there, I'm Maor Barel 👋
 
 **Junior Data Analyst**
