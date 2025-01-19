@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/maor-barel-a823a3288/)])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maor-barel-a823a3288/)
