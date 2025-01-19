@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 Data Research Analyst & Nutritionist
 - 📫 How to reach me: [Maor7878@gmail.com](mailto:YourEmail@example.com)
-- 🌐 [My Personal Website]((https://maor0602.github.io/MyPortfolio/))
+- 🌐 [My Personal Website](https://maor0602.github.io/MyPortfolio/)
 
 ## My Skills:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
