@@ -7,6 +7,7 @@
 - 🌐 [My Website](https://maor0602.github.io/MyPortfolio/)
 
 ## My Skills:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
