@@ -7,6 +7,7 @@
 - 🌐 [My Website](https://maor0602.github.io/MyPortfolio/)
 
 ## My Skills: 
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau Logo" width="120" />
 [![My Skills](https://skillicons.dev/icons?i=py,html,github,git,vscode,linkedin,)](https://skillicons.dev)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
