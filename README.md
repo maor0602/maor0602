@@ -3,7 +3,6 @@
                                                                                         
 - 📊 Data Research Analyst 
 - 📫 How to reach me: [Maor7878@gmail.com](mailto:Maor7878@gmail.com)
-- 🌐 [My Website](https://maor0602.github.io/MyPortfolio/)
 
 ## My Skills: 
 ![My Skills](https://skillicons.dev/icons?i=mysql,py,html,github,git,vscode,linkedin)
